@@ -23,3 +23,11 @@ body{
     font-size: 25px;
     text-decoration: underline;
 }
+
+.Babymonitor {
+    font-size: 20px;
+    background: lightsalmon;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+}
